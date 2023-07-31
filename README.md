@@ -1,4 +1,4 @@
-# Testing_Pretrained_md
+# Obj detection using Tensorflow
 
 application needed:
 - python 3.9 (or higher)
